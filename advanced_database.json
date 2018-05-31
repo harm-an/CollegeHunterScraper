@@ -1,0 +1,2741 @@
+[
+    {
+        "_id": "ICG-2", 
+        "address": "Indian Institute of Technology, Jammu\r\n(Temporary Campus)\r\nOpposite Janipur Police Station, \r\nPaloura, \r\nJammu - 181121", 
+        "branchWiseRank": [
+            {
+                "name": "Computer Science and Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "6219", 
+                        "name": "AI", 
+                        "opening rank": "4743"
+                    }
+                ]
+            }, 
+            {
+                "name": "Mechanical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "8624", 
+                        "name": "AI", 
+                        "opening rank": "6683"
+                    }
+                ]
+            }, 
+            {
+                "name": "Electrical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "8389", 
+                        "name": "AI", 
+                        "opening rank": "6821"
+                    }
+                ]
+            }
+        ], 
+        "branches": [
+            "Computer Science and Engineering (4 Years, Bachelor of Technology)", 
+            "Mechanical Engineering (4 Years, Bachelor of Technology)", 
+            "Electrical Engineering (4 Years, Bachelor of Technology)"
+        ], 
+        "email": "pic@iitjammu.ac.in", 
+        "examType": "JEE Advanced", 
+        "link": "http://josaa.nic.in/SeatInfo/root/InstProfile.aspx?instcd=122", 
+        "location": "Jammu", 
+        "name": "Indian Institute of Technology Jammu", 
+        "state": "Jammu and Kashmir", 
+        "totalPrograms": 3
+    }, 
+    {
+        "_id": "ICG-4", 
+        "address": "Kalyanpur, Kanpur, Uttar Pradesh 208016, India", 
+        "branchWiseRank": [
+            {
+                "name": "Mathematics and Scientific Computing (4 Years, Bachelor of Science)", 
+                "quota": [
+                    {
+                        "closing rank": "976", 
+                        "name": "AI", 
+                        "opening rank": "528"
+                    }
+                ]
+            }, 
+            {
+                "name": "Chemistry (4 Years, Bachelor of Science)", 
+                "quota": [
+                    {
+                        "closing rank": "6084", 
+                        "name": "AI", 
+                        "opening rank": "4814"
+                    }
+                ]
+            }, 
+            {
+                "name": "Computer Science and Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "230", 
+                        "name": "AI", 
+                        "opening rank": "113"
+                    }
+                ]
+            }, 
+            {
+                "name": "Chemical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "2569", 
+                        "name": "AI", 
+                        "opening rank": "1713"
+                    }
+                ]
+            }, 
+            {
+                "name": "Earth Sciences (4 Years, Bachelor of Science)", 
+                "quota": [
+                    {
+                        "closing rank": "7469", 
+                        "name": "AI", 
+                        "opening rank": "5900"
+                    }
+                ]
+            }, 
+            {
+                "name": "Civil Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "3333", 
+                        "name": "AI", 
+                        "opening rank": "1571"
+                    }
+                ]
+            }, 
+            {
+                "name": "Biological Sciences and Bioengineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "5433", 
+                        "name": "AI", 
+                        "opening rank": "3578"
+                    }
+                ]
+            }, 
+            {
+                "name": "Mechanical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "1394", 
+                        "name": "AI", 
+                        "opening rank": "841"
+                    }
+                ]
+            }, 
+            {
+                "name": "Aerospace Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "2988", 
+                        "name": "AI", 
+                        "opening rank": "1501"
+                    }
+                ]
+            }, 
+            {
+                "name": "Economics (4 Years, Bachelor of Science)", 
+                "quota": [
+                    {
+                        "closing rank": "2767", 
+                        "name": "AI", 
+                        "opening rank": "1529"
+                    }
+                ]
+            }, 
+            {
+                "name": "Electrical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "798", 
+                        "name": "AI", 
+                        "opening rank": "248"
+                    }
+                ]
+            }, 
+            {
+                "name": "Materials Science and Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "4148", 
+                        "name": "AI", 
+                        "opening rank": "3030"
+                    }
+                ]
+            }, 
+            {
+                "name": "Physics (4 Years, Bachelor of Science)", 
+                "quota": [
+                    {
+                        "closing rank": "3110", 
+                        "name": "AI", 
+                        "opening rank": "619"
+                    }
+                ]
+            }
+        ], 
+        "branches": [
+            "Mathematics and Scientific Computing (4 Years, Bachelor of Science)", 
+            "Chemistry (4 Years, Bachelor of Science)", 
+            "Computer Science and Engineering (4 Years, Bachelor of Technology)", 
+            "Chemical Engineering (4 Years, Bachelor of Technology)", 
+            "Earth Sciences (4 Years, Bachelor of Science)", 
+            "Civil Engineering (4 Years, Bachelor of Technology)", 
+            "Biological Sciences and Bioengineering (4 Years, Bachelor of Technology)", 
+            "Mechanical Engineering (4 Years, Bachelor of Technology)", 
+            "Aerospace Engineering (4 Years, Bachelor of Technology)", 
+            "Economics (4 Years, Bachelor of Science)", 
+            "Electrical Engineering (4 Years, Bachelor of Technology)", 
+            "Materials Science and Engineering (4 Years, Bachelor of Technology)", 
+            "Physics (4 Years, Bachelor of Science)"
+        ], 
+        "email": "sdr_doaa@iitk.ac.in", 
+        "examType": "JEE Advanced", 
+        "link": "http://josaa.nic.in/SeatInfo/root/InstProfile.aspx?instcd=109", 
+        "location": "Kanpur", 
+        "name": "Indian Institute  of Technology Kanpur", 
+        "state": "Uttar Pradesh", 
+        "totalPrograms": 13
+    }, 
+    {
+        "_id": "ICG-7", 
+        "address": "Palaj, Gandhinagar - 382355, India", 
+        "branchWiseRank": [
+            {
+                "name": "Computer Science and Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "1805", 
+                        "name": "AI", 
+                        "opening rank": "493"
+                    }
+                ]
+            }, 
+            {
+                "name": "Chemical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "5473", 
+                        "name": "AI", 
+                        "opening rank": "3960"
+                    }
+                ]
+            }, 
+            {
+                "name": "Civil Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "5892", 
+                        "name": "AI", 
+                        "opening rank": "4607"
+                    }
+                ]
+            }, 
+            {
+                "name": "Mechanical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "3658", 
+                        "name": "AI", 
+                        "opening rank": "2687"
+                    }
+                ]
+            }, 
+            {
+                "name": "Electrical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "2548", 
+                        "name": "AI", 
+                        "opening rank": "1645"
+                    }
+                ]
+            }, 
+            {
+                "name": "Materials Science and Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "6869", 
+                        "name": "AI", 
+                        "opening rank": "5248"
+                    }
+                ]
+            }
+        ], 
+        "branches": [
+            "Computer Science and Engineering (4 Years, Bachelor of Technology)", 
+            "Chemical Engineering (4 Years, Bachelor of Technology)", 
+            "Civil Engineering (4 Years, Bachelor of Technology)", 
+            "Mechanical Engineering (4 Years, Bachelor of Technology)", 
+            "Electrical Engineering (4 Years, Bachelor of Technology)", 
+            "Materials Science and Engineering (4 Years, Bachelor of Technology)"
+        ], 
+        "email": "academics@iitgn.ac.in", 
+        "examType": "JEE Advanced", 
+        "link": "http://josaa.nic.in/SeatInfo/root/InstProfile.aspx?instcd=111", 
+        "location": "Gandhinagar", 
+        "name": "Indian Institute  of Technology Gandhinagar", 
+        "state": "Gujarat", 
+        "totalPrograms": 6
+    }, 
+    {
+        "_id": "ICG-8", 
+        "address": "Kandi-502285, Sagareddy, Medak,Telangana, India", 
+        "branchWiseRank": [
+            {
+                "name": "Electrical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "2079", 
+                        "name": "AI", 
+                        "opening rank": "1393"
+                    }
+                ]
+            }, 
+            {
+                "name": "Engineering Science (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "4603", 
+                        "name": "AI", 
+                        "opening rank": "2674"
+                    }
+                ]
+            }, 
+            {
+                "name": "Computer Science and Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "879", 
+                        "name": "AI", 
+                        "opening rank": "418"
+                    }
+                ]
+            }, 
+            {
+                "name": "Chemical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "5869", 
+                        "name": "AI", 
+                        "opening rank": "3903"
+                    }
+                ]
+            }, 
+            {
+                "name": "Civil Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "5300", 
+                        "name": "AI", 
+                        "opening rank": "3804"
+                    }
+                ]
+            }, 
+            {
+                "name": "Materials Science and Metallurgical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "6844", 
+                        "name": "AI", 
+                        "opening rank": "5389"
+                    }
+                ]
+            }, 
+            {
+                "name": "Mechanical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "3401", 
+                        "name": "AI", 
+                        "opening rank": "1430"
+                    }
+                ]
+            }, 
+            {
+                "name": "Engineering Physics (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "4836", 
+                        "name": "AI", 
+                        "opening rank": "4255"
+                    }
+                ]
+            }
+        ], 
+        "branches": [
+            "Electrical Engineering (4 Years, Bachelor of Technology)", 
+            "Engineering Science (4 Years, Bachelor of Technology)", 
+            "Computer Science and Engineering (4 Years, Bachelor of Technology)", 
+            "Chemical Engineering (4 Years, Bachelor of Technology)", 
+            "Civil Engineering (4 Years, Bachelor of Technology)", 
+            "Materials Science and Metallurgical Engineering (4 Years, Bachelor of Technology)", 
+            "Mechanical Engineering (4 Years, Bachelor of Technology)", 
+            "Engineering Physics (4 Years, Bachelor of Technology)"
+        ], 
+        "email": "jracad@iith.ac.in", 
+        "examType": "JEE Advanced", 
+        "link": "http://josaa.nic.in/SeatInfo/root/InstProfile.aspx?instcd=107", 
+        "location": "Hyderabad", 
+        "name": "Indian Institute  of Technology Hyderabad", 
+        "state": "Telangana", 
+        "totalPrograms": 8
+    }, 
+    {
+        "_id": "ICG-12", 
+        "address": "Indian Institute of Technology Patna, Bihta, Patna -801103 (Bihar)", 
+        "branchWiseRank": [
+            {
+                "name": "Chemical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "7891", 
+                        "name": "AI", 
+                        "opening rank": "6560"
+                    }
+                ]
+            }, 
+            {
+                "name": "Computer Science and Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "2888", 
+                        "name": "AI", 
+                        "opening rank": "1541"
+                    }
+                ]
+            }, 
+            {
+                "name": "Civil Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "7074", 
+                        "name": "AI", 
+                        "opening rank": "5776"
+                    }
+                ]
+            }, 
+            {
+                "name": "Mechanical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "6284", 
+                        "name": "AI", 
+                        "opening rank": "4359"
+                    }
+                ]
+            }, 
+            {
+                "name": "Electrical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "5518", 
+                        "name": "AI", 
+                        "opening rank": "3895"
+                    }
+                ]
+            }
+        ], 
+        "branches": [
+            "Chemical Engineering (4 Years, Bachelor of Technology)", 
+            "Computer Science and Engineering (4 Years, Bachelor of Technology)", 
+            "Civil Engineering (4 Years, Bachelor of Technology)", 
+            "Mechanical Engineering (4 Years, Bachelor of Technology)", 
+            "Electrical Engineering (4 Years, Bachelor of Technology)"
+        ], 
+        "email": "aracademic@iitp.ac.in", 
+        "examType": "JEE Advanced", 
+        "link": "http://josaa.nic.in/SeatInfo/root/InstProfile.aspx?instcd=112", 
+        "location": "Patna", 
+        "name": "Indian Institute  of Technology Patna", 
+        "state": "Bihar", 
+        "totalPrograms": 5
+    }, 
+    {
+        "_id": "ICG-16", 
+        "address": "Kamand Campus, VPO Kamand, Distt. Mandi - 175005 Himachal Pradesh India", 
+        "branchWiseRank": [
+            {
+                "name": "Computer Science and Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "2450", 
+                        "name": "AI", 
+                        "opening rank": "1701"
+                    }
+                ]
+            }, 
+            {
+                "name": "Electrical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "4904", 
+                        "name": "AI", 
+                        "opening rank": "3782"
+                    }
+                ]
+            }, 
+            {
+                "name": "Mechanical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "6094", 
+                        "name": "AI", 
+                        "opening rank": "4670"
+                    }
+                ]
+            }, 
+            {
+                "name": "Civil Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "7124", 
+                        "name": "AI", 
+                        "opening rank": "6162"
+                    }
+                ]
+            }
+        ], 
+        "branches": [
+            "Computer Science and Engineering (4 Years, Bachelor of Technology)", 
+            "Electrical Engineering (4 Years, Bachelor of Technology)", 
+            "Mechanical Engineering (4 Years, Bachelor of Technology)", 
+            "Civil Engineering (4 Years, Bachelor of Technology)"
+        ], 
+        "email": "registrar@iitmandi.ac.in", 
+        "examType": "JEE Advanced", 
+        "link": "http://josaa.nic.in/SeatInfo/root/InstProfile.aspx?instcd=103", 
+        "location": "Mandi", 
+        "name": "Indian Institute  of Technology Mandi", 
+        "state": "Himachal Pradesh", 
+        "totalPrograms": 4
+    }, 
+    {
+        "_id": "ICG-21", 
+        "address": "IIT Bhilai, Government Engineering College Campus, Old Dhamtari Road, Sejbahar, Raipur, Chhattisharh, 492015", 
+        "branchWiseRank": [
+            {
+                "name": "Computer Science and Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "5949", 
+                        "name": "AI", 
+                        "opening rank": "3146"
+                    }
+                ]
+            }, 
+            {
+                "name": "Mechanical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "8379", 
+                        "name": "AI", 
+                        "opening rank": "6128"
+                    }
+                ]
+            }, 
+            {
+                "name": "Electrical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "8249", 
+                        "name": "AI", 
+                        "opening rank": "6478"
+                    }
+                ]
+            }
+        ], 
+        "branches": [
+            "Computer Science and Engineering (4 Years, Bachelor of Technology)", 
+            "Mechanical Engineering (4 Years, Bachelor of Technology)", 
+            "Electrical Engineering (4 Years, Bachelor of Technology)"
+        ], 
+        "email": "jee@iitbhilai.ac.in", 
+        "examType": "JEE Advanced", 
+        "link": "http://josaa.nic.in/SeatInfo/root/InstProfile.aspx?instcd=118", 
+        "location": "Bhilai", 
+        "name": "Indian Institute of Technology Bhilai", 
+        "state": "Chhattisgarh", 
+        "totalPrograms": 3
+    }, 
+    {
+        "_id": "ICG-26", 
+        "address": "Indian Institute of Technology Indore\r\nSimrol, Khandwa Road \r\nPin code 453 552, Indore (MP) India", 
+        "branchWiseRank": [
+            {
+                "name": "Computer Science and Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "1411", 
+                        "name": "AI", 
+                        "opening rank": "933"
+                    }
+                ]
+            }, 
+            {
+                "name": "Electrical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "3577", 
+                        "name": "AI", 
+                        "opening rank": "1730"
+                    }
+                ]
+            }, 
+            {
+                "name": "Mechanical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "4434", 
+                        "name": "AI", 
+                        "opening rank": "3432"
+                    }
+                ]
+            }, 
+            {
+                "name": "Metallurgical Engineering and Materials Science (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "7732", 
+                        "name": "AI", 
+                        "opening rank": "6082"
+                    }
+                ]
+            }, 
+            {
+                "name": "Civil Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "6561", 
+                        "name": "AI", 
+                        "opening rank": "4626"
+                    }
+                ]
+            }
+        ], 
+        "branches": [
+            "Computer Science and Engineering (4 Years, Bachelor of Technology)", 
+            "Electrical Engineering (4 Years, Bachelor of Technology)", 
+            "Mechanical Engineering (4 Years, Bachelor of Technology)", 
+            "Metallurgical Engineering and Materials Science (4 Years, Bachelor of Technology)", 
+            "Civil Engineering (4 Years, Bachelor of Technology)"
+        ], 
+        "email": "dracademic@iiti.ac.in", 
+        "examType": "JEE Advanced", 
+        "link": "http://josaa.nic.in/SeatInfo/root/InstProfile.aspx?instcd=105", 
+        "location": "Indore", 
+        "name": "Indian Institute  of Technology Indore", 
+        "state": "Madhya Pradesh", 
+        "totalPrograms": 5
+    }, 
+    {
+        "_id": "ICG-29", 
+        "address": "Nagaur Road, NH65, Karwad 342037, Jodhpur District", 
+        "branchWiseRank": [
+            {
+                "name": "Computer Science and Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "2704", 
+                        "name": "AI", 
+                        "opening rank": "699"
+                    }
+                ]
+            }, 
+            {
+                "name": "Mechanical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "6006", 
+                        "name": "AI", 
+                        "opening rank": "4876"
+                    }
+                ]
+            }, 
+            {
+                "name": "Electrical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "5615", 
+                        "name": "AI", 
+                        "opening rank": "3693"
+                    }
+                ]
+            }
+        ], 
+        "branches": [
+            "Computer Science and Engineering (4 Years, Bachelor of Technology)", 
+            "Mechanical Engineering (4 Years, Bachelor of Technology)", 
+            "Electrical Engineering (4 Years, Bachelor of Technology)"
+        ], 
+        "email": "chair_admissions@iitj.ac.in", 
+        "examType": "JEE Advanced", 
+        "link": "http://josaa.nic.in/SeatInfo/root/InstProfile.aspx?instcd=108", 
+        "location": "Jodhpur", 
+        "name": "Indian Institute  of Technology Jodhpur", 
+        "state": "Rajasthan", 
+        "totalPrograms": 3
+    }, 
+    {
+        "_id": "ICG-30", 
+        "address": "IIT Dharwad, WALMI Campus\r\nBelur Industrial Area, PB Road \r\nPost Mummigatti, Dharwad-580001\r\nKarnataka, India", 
+        "branchWiseRank": [
+            {
+                "name": "Computer Science and Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "5644", 
+                        "name": "AI", 
+                        "opening rank": "2914"
+                    }
+                ]
+            }, 
+            {
+                "name": "Mechanical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "8478", 
+                        "name": "AI", 
+                        "opening rank": "6421"
+                    }
+                ]
+            }, 
+            {
+                "name": "Electrical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "8299", 
+                        "name": "AI", 
+                        "opening rank": "6504"
+                    }
+                ]
+            }
+        ], 
+        "branches": [
+            "Computer Science and Engineering (4 Years, Bachelor of Technology)", 
+            "Mechanical Engineering (4 Years, Bachelor of Technology)", 
+            "Electrical Engineering (4 Years, Bachelor of Technology)"
+        ], 
+        "email": "pic.newiitmc@iitb.ac.in", 
+        "examType": "JEE Advanced", 
+        "link": "http://josaa.nic.in/SeatInfo/root/InstProfile.aspx?instcd=123", 
+        "location": "Dharwad", 
+        "name": "Indian Institute of Technology Dharwad", 
+        "state": "Dharwad", 
+        "totalPrograms": 3
+    }, 
+    {
+        "_id": "ICG-32", 
+        "address": "Ahalia Integrated Campus, Kozhipara, Palakkad 678557, Kerala", 
+        "branchWiseRank": [
+            {
+                "name": "Computer Science and Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "4981", 
+                        "name": "AI", 
+                        "opening rank": "2818"
+                    }
+                ]
+            }, 
+            {
+                "name": "Electrical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "6737", 
+                        "name": "AI", 
+                        "opening rank": "5566"
+                    }
+                ]
+            }, 
+            {
+                "name": "Mechanical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "7381", 
+                        "name": "AI", 
+                        "opening rank": "5958"
+                    }
+                ]
+            }, 
+            {
+                "name": "Civil Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "8648", 
+                        "name": "AI", 
+                        "opening rank": "7449"
+                    }
+                ]
+            }
+        ], 
+        "branches": [
+            "Computer Science and Engineering (4 Years, Bachelor of Technology)", 
+            "Electrical Engineering (4 Years, Bachelor of Technology)", 
+            "Mechanical Engineering (4 Years, Bachelor of Technology)", 
+            "Civil Engineering (4 Years, Bachelor of Technology)"
+        ], 
+        "email": "academics@iitpkd.ac.in", 
+        "examType": "JEE Advanced", 
+        "link": "http://josaa.nic.in/SeatInfo/root/InstProfile.aspx?instcd=120", 
+        "location": "Palakkad", 
+        "name": "Indian Institute  of Technology Palakkad", 
+        "state": "Kerala", 
+        "totalPrograms": 4
+    }, 
+    {
+        "_id": "ICG-41", 
+        "address": "Toshali Bhawan, PO: Satyanagar, Bbubaneswar - 751007, Odisha, INDIA", 
+        "branchWiseRank": [
+            {
+                "name": "Mechanical Engineering and M. Tech. in Thermal Science & Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "6554", 
+                        "name": "AI", 
+                        "opening rank": "5680"
+                    }
+                ]
+            }, 
+            {
+                "name": "Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "8482", 
+                        "name": "AI", 
+                        "opening rank": "6393"
+                    }
+                ]
+            }, 
+            {
+                "name": "Electronics and Communication Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "4432", 
+                        "name": "AI", 
+                        "opening rank": "2529"
+                    }
+                ]
+            }, 
+            {
+                "name": "Computer Science and Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "2783", 
+                        "name": "AI", 
+                        "opening rank": "1497"
+                    }
+                ]
+            }, 
+            {
+                "name": "Electrical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "5059", 
+                        "name": "AI", 
+                        "opening rank": "3124"
+                    }
+                ]
+            }, 
+            {
+                "name": "Civil Engineering and M. Tech. in Structural Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "7295", 
+                        "name": "AI", 
+                        "opening rank": "5408"
+                    }
+                ]
+            }, 
+            {
+                "name": "Mechanical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "5716", 
+                        "name": "AI", 
+                        "opening rank": "3710"
+                    }
+                ]
+            }, 
+            {
+                "name": "Mechanical Engineering and M. Tech. in Mechanical System Design (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "6399", 
+                        "name": "AI", 
+                        "opening rank": "5708"
+                    }
+                ]
+            }, 
+            {
+                "name": "Civil Engineering and M.Tech in Transportation Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "8142", 
+                        "name": "AI", 
+                        "opening rank": "6078"
+                    }
+                ]
+            }, 
+            {
+                "name": "Civil Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "7066", 
+                        "name": "AI", 
+                        "opening rank": "5456"
+                    }
+                ]
+            }
+        ], 
+        "branches": [
+            "Mechanical Engineering and M. Tech. in Thermal Science & Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+            "Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)", 
+            "Electronics and Communication Engineering (4 Years, Bachelor of Technology)", 
+            "Computer Science and Engineering (4 Years, Bachelor of Technology)", 
+            "Electrical Engineering (4 Years, Bachelor of Technology)", 
+            "Civil Engineering and M. Tech. in Structural Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+            "Mechanical Engineering (4 Years, Bachelor of Technology)", 
+            "Mechanical Engineering and M. Tech. in Mechanical System Design (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+            "Civil Engineering and M.Tech in Transportation Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+            "Civil Engineering (4 Years, Bachelor of Technology)"
+        ], 
+        "email": "ar.acad@iitbbs.ac.in", 
+        "examType": "JEE Advanced", 
+        "link": "http://josaa.nic.in/SeatInfo/root/InstProfile.aspx?instcd=101", 
+        "location": "Bhubaneswar", 
+        "name": "Indian Institute  of Technology Bhubaneswar", 
+        "state": "Odisha", 
+        "totalPrograms": 10
+    }, 
+    {
+        "_id": "ICG-52", 
+        "address": "Nangal Road, Rupnagar, Punjab 140001", 
+        "branchWiseRank": [
+            {
+                "name": "Computer Science and Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "1684", 
+                        "name": "AI", 
+                        "opening rank": "898"
+                    }
+                ]
+            }, 
+            {
+                "name": "Electrical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "3893", 
+                        "name": "AI", 
+                        "opening rank": "3163"
+                    }
+                ]
+            }, 
+            {
+                "name": "Mechanical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "5010", 
+                        "name": "AI", 
+                        "opening rank": "2995"
+                    }
+                ]
+            }, 
+            {
+                "name": "Mechanical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "6123", 
+                        "name": "AI", 
+                        "opening rank": "4742"
+                    }
+                ]
+            }, 
+            {
+                "name": "Civil Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "7372", 
+                        "name": "AI", 
+                        "opening rank": "5382"
+                    }
+                ]
+            }
+        ], 
+        "branches": [
+            "Computer Science and Engineering (4 Years, Bachelor of Technology)", 
+            "Electrical Engineering (4 Years, Bachelor of Technology)", 
+            "Mechanical Engineering (4 Years, Bachelor of Technology)", 
+            "Mechanical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+            "Civil Engineering (4 Years, Bachelor of Technology)"
+        ], 
+        "email": "aracademics@iitrpr.ac.in", 
+        "examType": "JEE Advanced", 
+        "link": "http://josaa.nic.in/SeatInfo/root/InstProfile.aspx?instcd=115", 
+        "location": "Ropar", 
+        "name": "Indian Institute  of Technology Ropar", 
+        "state": "Ropar", 
+        "totalPrograms": 5
+    }, 
+    {
+        "_id": "ICG-54", 
+        "address": "Roorkee 247667\r\nUttarakhand\r\nIndia", 
+        "branchWiseRank": [
+            {
+                "name": "Chemical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "4017", 
+                        "name": "AI", 
+                        "opening rank": "2383"
+                    }
+                ]
+            }, 
+            {
+                "name": "Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "5856", 
+                        "name": "AI", 
+                        "opening rank": "4366"
+                    }
+                ]
+            }, 
+            {
+                "name": "Electronics and Communication Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "1441", 
+                        "name": "AI", 
+                        "opening rank": "948"
+                    }
+                ]
+            }, 
+            {
+                "name": "Computer Science and Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "482", 
+                        "name": "AI", 
+                        "opening rank": "294"
+                    }
+                ]
+            }, 
+            {
+                "name": "Engineering Physics (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "4345", 
+                        "name": "AI", 
+                        "opening rank": "2869"
+                    }
+                ]
+            }, 
+            {
+                "name": "Polymer Science and Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "7531", 
+                        "name": "AI", 
+                        "opening rank": "5943"
+                    }
+                ]
+            }, 
+            {
+                "name": "Architecture  (5 Years, Bachelor of Architecture)", 
+                "quota": [
+                    {
+                        "closing rank": "10422", 
+                        "name": "AI", 
+                        "opening rank": "4778"
+                    }
+                ]
+            }, 
+            {
+                "name": "Geophysical Technology (5 Years, Integrated Master of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "6865", 
+                        "name": "AI", 
+                        "opening rank": "4328"
+                    }
+                ]
+            }, 
+            {
+                "name": "Production and Industrial Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "4353", 
+                        "name": "AI", 
+                        "opening rank": "3502"
+                    }
+                ]
+            }, 
+            {
+                "name": "Geological Technology (5 Years, Integrated Master of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "7825", 
+                        "name": "AI", 
+                        "opening rank": "6185"
+                    }
+                ]
+            }, 
+            {
+                "name": "Applied Mathematics (5 Years, Integrated Master of Science)", 
+                "quota": [
+                    {
+                        "closing rank": "3322", 
+                        "name": "AI", 
+                        "opening rank": "1938"
+                    }
+                ]
+            }, 
+            {
+                "name": "Mechanical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "2426", 
+                        "name": "AI", 
+                        "opening rank": "1565"
+                    }
+                ]
+            }, 
+            {
+                "name": "Civil Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "3917", 
+                        "name": "AI", 
+                        "opening rank": "1877"
+                    }
+                ]
+            }, 
+            {
+                "name": "Electrical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "1833", 
+                        "name": "AI", 
+                        "opening rank": "1108"
+                    }
+                ]
+            }, 
+            {
+                "name": "Bio Technology (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "6255", 
+                        "name": "AI", 
+                        "opening rank": "5417"
+                    }
+                ]
+            }
+        ], 
+        "branches": [
+            "Chemical Engineering (4 Years, Bachelor of Technology)", 
+            "Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)", 
+            "Electronics and Communication Engineering (4 Years, Bachelor of Technology)", 
+            "Computer Science and Engineering (4 Years, Bachelor of Technology)", 
+            "Engineering Physics (4 Years, Bachelor of Technology)", 
+            "Polymer Science and Engineering (4 Years, Bachelor of Technology)", 
+            "Architecture  (5 Years, Bachelor of Architecture)", 
+            "Geophysical Technology (5 Years, Integrated Master of Technology)", 
+            "Production and Industrial Engineering (4 Years, Bachelor of Technology)", 
+            "Geological Technology (5 Years, Integrated Master of Technology)", 
+            "Applied Mathematics (5 Years, Integrated Master of Science)", 
+            "Mechanical Engineering (4 Years, Bachelor of Technology)", 
+            "Civil Engineering (4 Years, Bachelor of Technology)", 
+            "Electrical Engineering (4 Years, Bachelor of Technology)", 
+            "Bio Technology (4 Years, Bachelor of Technology)"
+        ], 
+        "email": "dracademic@iitr.ac.in", 
+        "examType": "JEE Advanced", 
+        "link": "http://josaa.nic.in/SeatInfo/root/InstProfile.aspx?instcd=113", 
+        "location": "Roorkee", 
+        "name": "Indian Institute  of Technology Roorkee", 
+        "state": "Uttarakhand", 
+        "totalPrograms": 15
+    }, 
+    {
+        "_id": "ICG-69", 
+        "address": "IIT Goa, at Goa Engineering College Campus, Farmagudi, Ponda- 403401, Goa, India", 
+        "branchWiseRank": [
+            {
+                "name": "Computer Science and Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "5164", 
+                        "name": "AI", 
+                        "opening rank": "3003"
+                    }
+                ]
+            }, 
+            {
+                "name": "Mechanical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "7571", 
+                        "name": "AI", 
+                        "opening rank": "5594"
+                    }
+                ]
+            }, 
+            {
+                "name": "Electrical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "6971", 
+                        "name": "AI", 
+                        "opening rank": "5503"
+                    }
+                ]
+            }
+        ], 
+        "branches": [
+            "Computer Science and Engineering (4 Years, Bachelor of Technology)", 
+            "Mechanical Engineering (4 Years, Bachelor of Technology)", 
+            "Electrical Engineering (4 Years, Bachelor of Technology)"
+        ], 
+        "email": "enquiry@iitgoa.ac.in", 
+        "examType": "JEE Advanced", 
+        "link": "http://josaa.nic.in/SeatInfo/root/InstProfile.aspx?instcd=119", 
+        "location": "Goa", 
+        "name": "Indian Institute of Technology Goa", 
+        "state": "Goa", 
+        "totalPrograms": 3
+    }, 
+    {
+        "_id": "ICG-71", 
+        "address": "Guwahati - 781039, Assam, India", 
+        "branchWiseRank": [
+            {
+                "name": "Electronics and Electrical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "2127", 
+                        "name": "AI", 
+                        "opening rank": "1471"
+                    }
+                ]
+            }, 
+            {
+                "name": "Mathematics and Computing (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "1251", 
+                        "name": "AI", 
+                        "opening rank": "726"
+                    }
+                ]
+            }, 
+            {
+                "name": "Computer Science and Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "666", 
+                        "name": "AI", 
+                        "opening rank": "406"
+                    }
+                ]
+            }, 
+            {
+                "name": "Chemical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "4657", 
+                        "name": "AI", 
+                        "opening rank": "3184"
+                    }
+                ]
+            }, 
+            {
+                "name": "Engineering Physics (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "5160", 
+                        "name": "AI", 
+                        "opening rank": "3214"
+                    }
+                ]
+            }, 
+            {
+                "name": "Chemical Science and Technology (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "6395", 
+                        "name": "AI", 
+                        "opening rank": "1890"
+                    }
+                ]
+            }, 
+            {
+                "name": "Electronics and Communication Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "1873", 
+                        "name": "AI", 
+                        "opening rank": "1202"
+                    }
+                ]
+            }, 
+            {
+                "name": "Mechanical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "3052", 
+                        "name": "AI", 
+                        "opening rank": "2249"
+                    }
+                ]
+            }, 
+            {
+                "name": "Civil Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "5371", 
+                        "name": "AI", 
+                        "opening rank": "4087"
+                    }
+                ]
+            }, 
+            {
+                "name": "Bio Technology (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "8000", 
+                        "name": "AI", 
+                        "opening rank": "5394"
+                    }
+                ]
+            }
+        ], 
+        "branches": [
+            "Electronics and Electrical Engineering (4 Years, Bachelor of Technology)", 
+            "Mathematics and Computing (4 Years, Bachelor of Technology)", 
+            "Computer Science and Engineering (4 Years, Bachelor of Technology)", 
+            "Chemical Engineering (4 Years, Bachelor of Technology)", 
+            "Engineering Physics (4 Years, Bachelor of Technology)", 
+            "Chemical Science and Technology (4 Years, Bachelor of Technology)", 
+            "Electronics and Communication Engineering (4 Years, Bachelor of Technology)", 
+            "Mechanical Engineering (4 Years, Bachelor of Technology)", 
+            "Civil Engineering (4 Years, Bachelor of Technology)", 
+            "Bio Technology (4 Years, Bachelor of Technology)"
+        ], 
+        "email": "acad_admission@iitg.ernet.in", 
+        "examType": "JEE Advanced", 
+        "link": "http://josaa.nic.in/SeatInfo/root/InstProfile.aspx?instcd=117", 
+        "location": "Guwahati", 
+        "name": "Indian Institute  of Technology Guwahati", 
+        "state": "Assam", 
+        "totalPrograms": 10
+    }, 
+    {
+        "_id": "ICG-78", 
+        "address": "Kharagpur India - 721302", 
+        "branchWiseRank": [
+            {
+                "name": "Chemical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "2965", 
+                        "name": "AI", 
+                        "opening rank": "1906"
+                    }
+                ]
+            }, 
+            {
+                "name": "Industrial and Systems Engineering with M.Tech. in Industrial and Systems Engineering and Management (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "4563", 
+                        "name": "AI", 
+                        "opening rank": "3492"
+                    }
+                ]
+            }, 
+            {
+                "name": "Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "4222", 
+                        "name": "AI", 
+                        "opening rank": "3373"
+                    }
+                ]
+            }, 
+            {
+                "name": "Architecture  (5 Years, Bachelor of Architecture)", 
+                "quota": [
+                    {
+                        "closing rank": "10310", 
+                        "name": "AI", 
+                        "opening rank": "5783"
+                    }
+                ]
+            }, 
+            {
+                "name": "Mining Engineering  (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "5502", 
+                        "name": "AI", 
+                        "opening rank": "4440"
+                    }
+                ]
+            }, 
+            {
+                "name": "Ocean Engineering and Naval Architecture (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "5538", 
+                        "name": "AI", 
+                        "opening rank": "3609"
+                    }
+                ]
+            }, 
+            {
+                "name": "Electrical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "1190", 
+                        "name": "AI", 
+                        "opening rank": "138"
+                    }
+                ]
+            }, 
+            {
+                "name": "Applied Geology (5 Years, Integrated Master of Science)", 
+                "quota": [
+                    {
+                        "closing rank": "8658", 
+                        "name": "AI", 
+                        "opening rank": "6645"
+                    }
+                ]
+            }, 
+            {
+                "name": "Electronics and Electrical Communication Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "890", 
+                        "name": "AI", 
+                        "opening rank": "329"
+                    }
+                ]
+            }, 
+            {
+                "name": "Mathematics and Computing (5 Years, Integrated Master of Science)", 
+                "quota": [
+                    {
+                        "closing rank": "1386", 
+                        "name": "AI", 
+                        "opening rank": "1043"
+                    }
+                ]
+            }, 
+            {
+                "name": "Instrumentation Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "2623", 
+                        "name": "AI", 
+                        "opening rank": "1663"
+                    }
+                ]
+            }, 
+            {
+                "name": "Chemistry (5 Years, Integrated Master of Science)", 
+                "quota": [
+                    {
+                        "closing rank": "8727", 
+                        "name": "AI", 
+                        "opening rank": "3979"
+                    }
+                ]
+            }, 
+            {
+                "name": "Manufacturing Science and Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "3759", 
+                        "name": "AI", 
+                        "opening rank": "2420"
+                    }
+                ]
+            }, 
+            {
+                "name": "Economics (5 Years, Integrated Master of Science)", 
+                "quota": [
+                    {
+                        "closing rank": "4128", 
+                        "name": "AI", 
+                        "opening rank": "2779"
+                    }
+                ]
+            }, 
+            {
+                "name": "Mining Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "6220", 
+                        "name": "AI", 
+                        "opening rank": "5606"
+                    }
+                ]
+            }, 
+            {
+                "name": "Mechanical Engineering with M.Tech. in any of the listed specializations (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "2299", 
+                        "name": "AI", 
+                        "opening rank": "1561"
+                    }
+                ]
+            }, 
+            {
+                "name": "Civil Engineering with any of the listed specialization (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "4158", 
+                        "name": "AI", 
+                        "opening rank": "3559"
+                    }
+                ]
+            }, 
+            {
+                "name": "Physics (5 Years, Integrated Master of Science)", 
+                "quota": [
+                    {
+                        "closing rank": "5558", 
+                        "name": "AI", 
+                        "opening rank": "3404"
+                    }
+                ]
+            }, 
+            {
+                "name": "Agricultural and Food Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "6312", 
+                        "name": "AI", 
+                        "opening rank": "4321"
+                    }
+                ]
+            }, 
+            {
+                "name": "Metallurgical and Materials Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "4776", 
+                        "name": "AI", 
+                        "opening rank": "4414"
+                    }
+                ]
+            }, 
+            {
+                "name": "Mechanical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "1560", 
+                        "name": "AI", 
+                        "opening rank": "622"
+                    }
+                ]
+            }, 
+            {
+                "name": "Aerospace Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "4033", 
+                        "name": "AI", 
+                        "opening rank": "2938"
+                    }
+                ]
+            }, 
+            {
+                "name": "Computer Science and Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "286", 
+                        "name": "AI", 
+                        "opening rank": "181"
+                    }
+                ]
+            }, 
+            {
+                "name": "Exploration Geophysics (5 Years, Integrated Master of Science)", 
+                "quota": [
+                    {
+                        "closing rank": "7242", 
+                        "name": "AI", 
+                        "opening rank": "5566"
+                    }
+                ]
+            }, 
+            {
+                "name": "Electronics and Electrical Communication Engineering with M.Tech. in any of the listed specializations (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "1320", 
+                        "name": "AI", 
+                        "opening rank": "915"
+                    }
+                ]
+            }, 
+            {
+                "name": "Biotechnology and Biochemical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "6904", 
+                        "name": "AI", 
+                        "opening rank": "5556"
+                    }
+                ]
+            }, 
+            {
+                "name": "Chemical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "3606", 
+                        "name": "AI", 
+                        "opening rank": "3009"
+                    }
+                ]
+            }, 
+            {
+                "name": "Aerospace Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "3497", 
+                        "name": "AI", 
+                        "opening rank": "2864"
+                    }
+                ]
+            }, 
+            {
+                "name": "Electrical Engineering with M.Tech. in any of the listed specializations (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "1556", 
+                        "name": "AI", 
+                        "opening rank": "1288"
+                    }
+                ]
+            }, 
+            {
+                "name": "Agricultural and Food Engineering with M.Tech. in any of the listed specializations (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "7455", 
+                        "name": "AI", 
+                        "opening rank": "6306"
+                    }
+                ]
+            }, 
+            {
+                "name": "Mining Safety Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "7423", 
+                        "name": "AI", 
+                        "opening rank": "6430"
+                    }
+                ]
+            }, 
+            {
+                "name": "Civil Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "3788", 
+                        "name": "AI", 
+                        "opening rank": "2728"
+                    }
+                ]
+            }, 
+            {
+                "name": "Biotechnology and Biochemical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "5437", 
+                        "name": "AI", 
+                        "opening rank": "4183"
+                    }
+                ]
+            }, 
+            {
+                "name": "Ocean Engineering and Naval Architecture (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "6355", 
+                        "name": "AI", 
+                        "opening rank": "5586"
+                    }
+                ]
+            }, 
+            {
+                "name": "Computer Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "389", 
+                        "name": "AI", 
+                        "opening rank": "284"
+                    }
+                ]
+            }, 
+            {
+                "name": "Industrial and Systems Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "3442", 
+                        "name": "AI", 
+                        "opening rank": "2819"
+                    }
+                ]
+            }, 
+            {
+                "name": "Manufacturing Science and Engineering with M.Tech. in Industrial and Systems Engineering and Management (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "4436", 
+                        "name": "AI", 
+                        "opening rank": "3847"
+                    }
+                ]
+            }, 
+            {
+                "name": "Quality Engineering Design and Manufacturing (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "4893", 
+                        "name": "AI", 
+                        "opening rank": "4496"
+                    }
+                ]
+            }
+        ], 
+        "branches": [
+            "Chemical Engineering (4 Years, Bachelor of Technology)", 
+            "Industrial and Systems Engineering with M.Tech. in Industrial and Systems Engineering and Management (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+            "Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)", 
+            "Architecture  (5 Years, Bachelor of Architecture)", 
+            "Mining Engineering  (4 Years, Bachelor of Technology)", 
+            "Ocean Engineering and Naval Architecture (4 Years, Bachelor of Technology)", 
+            "Electrical Engineering (4 Years, Bachelor of Technology)", 
+            "Applied Geology (5 Years, Integrated Master of Science)", 
+            "Electronics and Electrical Communication Engineering (4 Years, Bachelor of Technology)", 
+            "Mathematics and Computing (5 Years, Integrated Master of Science)", 
+            "Instrumentation Engineering (4 Years, Bachelor of Technology)", 
+            "Chemistry (5 Years, Integrated Master of Science)", 
+            "Manufacturing Science and Engineering (4 Years, Bachelor of Technology)", 
+            "Economics (5 Years, Integrated Master of Science)", 
+            "Mining Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+            "Mechanical Engineering with M.Tech. in any of the listed specializations (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+            "Civil Engineering with any of the listed specialization (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+            "Physics (5 Years, Integrated Master of Science)", 
+            "Agricultural and Food Engineering (4 Years, Bachelor of Technology)", 
+            "Metallurgical and Materials Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+            "Mechanical Engineering (4 Years, Bachelor of Technology)", 
+            "Aerospace Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+            "Computer Science and Engineering (4 Years, Bachelor of Technology)", 
+            "Exploration Geophysics (5 Years, Integrated Master of Science)", 
+            "Electronics and Electrical Communication Engineering with M.Tech. in any of the listed specializations (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+            "Biotechnology and Biochemical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+            "Chemical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+            "Aerospace Engineering (4 Years, Bachelor of Technology)", 
+            "Electrical Engineering with M.Tech. in any of the listed specializations (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+            "Agricultural and Food Engineering with M.Tech. in any of the listed specializations (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+            "Mining Safety Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+            "Civil Engineering (4 Years, Bachelor of Technology)", 
+            "Biotechnology and Biochemical Engineering (4 Years, Bachelor of Technology)", 
+            "Ocean Engineering and Naval Architecture (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+            "Computer Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+            "Industrial and Systems Engineering (4 Years, Bachelor of Technology)", 
+            "Manufacturing Science and Engineering with M.Tech. in Industrial and Systems Engineering and Management (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+            "Quality Engineering Design and Manufacturing (5 Years, Bachelor and Master of Technology (Dual Degree))"
+        ], 
+        "email": "dracad@adm.iitkgp.ernet.in", 
+        "examType": "JEE Advanced", 
+        "link": "http://josaa.nic.in/SeatInfo/root/InstProfile.aspx?instcd=106", 
+        "location": "Kharagpur", 
+        "name": "Indian Institute  of Technology Kharagpur", 
+        "state": "West Bengal", 
+        "totalPrograms": 38
+    }, 
+    {
+        "_id": "ICG-80", 
+        "address": "Uttar Pradesh 221005", 
+        "branchWiseRank": [
+            {
+                "name": "Mining Engineering  (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "8573", 
+                        "name": "AI", 
+                        "opening rank": "6028"
+                    }
+                ]
+            }, 
+            {
+                "name": "Electrical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "2814", 
+                        "name": "AI", 
+                        "opening rank": "2294"
+                    }
+                ]
+            }, 
+            {
+                "name": "Engineering Physics (5 Years, Integrated Master of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "6385", 
+                        "name": "AI", 
+                        "opening rank": "5095"
+                    }
+                ]
+            }, 
+            {
+                "name": "Bioengineering with M.Tech in Biomedical Technology (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "9137", 
+                        "name": "AI", 
+                        "opening rank": "7884"
+                    }
+                ]
+            }, 
+            {
+                "name": "Electronics Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "2401", 
+                        "name": "AI", 
+                        "opening rank": "1539"
+                    }
+                ]
+            }, 
+            {
+                "name": "Mining Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "8852", 
+                        "name": "AI", 
+                        "opening rank": "7432"
+                    }
+                ]
+            }, 
+            {
+                "name": "Mechanical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "3800", 
+                        "name": "AI", 
+                        "opening rank": "2690"
+                    }
+                ]
+            }, 
+            {
+                "name": "Civil Engineering with M.Tech. in Structural Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "6238", 
+                        "name": "AI", 
+                        "opening rank": "4996"
+                    }
+                ]
+            }, 
+            {
+                "name": "Metallurgical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "6969", 
+                        "name": "AI", 
+                        "opening rank": "5462"
+                    }
+                ]
+            }, 
+            {
+                "name": "Pharmaceutics (5 Years, Bachelor and Master of Pharmaceutics(Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "9873", 
+                        "name": "AI", 
+                        "opening rank": "8101"
+                    }
+                ]
+            }, 
+            {
+                "name": "Computer Science and Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "772", 
+                        "name": "AI", 
+                        "opening rank": "500"
+                    }
+                ]
+            }, 
+            {
+                "name": "Ceramic Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "9383", 
+                        "name": "AI", 
+                        "opening rank": "8730"
+                    }
+                ]
+            }, 
+            {
+                "name": "Metallurgical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "7921", 
+                        "name": "AI", 
+                        "opening rank": "5998"
+                    }
+                ]
+            }, 
+            {
+                "name": "Materials Science and Technology (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "8275", 
+                        "name": "AI", 
+                        "opening rank": "6263"
+                    }
+                ]
+            }, 
+            {
+                "name": "Industrial Chemistry (5 Years, Integrated Master of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "8781", 
+                        "name": "AI", 
+                        "opening rank": "7089"
+                    }
+                ]
+            }, 
+            {
+                "name": "Pharmaceutics (4 Years, Bachelor of Pharmaceutics)", 
+                "quota": [
+                    {
+                        "closing rank": "9805", 
+                        "name": "AI", 
+                        "opening rank": "8027"
+                    }
+                ]
+            }, 
+            {
+                "name": "Chemical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "5728", 
+                        "name": "AI", 
+                        "opening rank": "3808"
+                    }
+                ]
+            }, 
+            {
+                "name": "Civil Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "5185", 
+                        "name": "AI", 
+                        "opening rank": "3629"
+                    }
+                ]
+            }, 
+            {
+                "name": "Biochemical Engineering with M.Tech. in Biochemical Engineering and Biotechnology (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "8847", 
+                        "name": "AI", 
+                        "opening rank": "7282"
+                    }
+                ]
+            }, 
+            {
+                "name": "Mathematics and Computing (5 Years, Integrated Master of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "1464", 
+                        "name": "AI", 
+                        "opening rank": "1127"
+                    }
+                ]
+            }, 
+            {
+                "name": "Mechanical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "4036", 
+                        "name": "AI", 
+                        "opening rank": "2876"
+                    }
+                ]
+            }, 
+            {
+                "name": "Electrical Engineering with M.Tech. in Power Electronics (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "3290", 
+                        "name": "AI", 
+                        "opening rank": "2648"
+                    }
+                ]
+            }, 
+            {
+                "name": "Ceramic Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "8712", 
+                        "name": "AI", 
+                        "opening rank": "5836"
+                    }
+                ]
+            }, 
+            {
+                "name": "Computer Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "880", 
+                        "name": "AI", 
+                        "opening rank": "778"
+                    }
+                ]
+            }
+        ], 
+        "branches": [
+            "Mining Engineering  (4 Years, Bachelor of Technology)", 
+            "Electrical Engineering (4 Years, Bachelor of Technology)", 
+            "Engineering Physics (5 Years, Integrated Master of Technology)", 
+            "Bioengineering with M.Tech in Biomedical Technology (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+            "Electronics Engineering (4 Years, Bachelor of Technology)", 
+            "Mining Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+            "Mechanical Engineering (4 Years, Bachelor of Technology)", 
+            "Civil Engineering with M.Tech. in Structural Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+            "Metallurgical Engineering (4 Years, Bachelor of Technology)", 
+            "Pharmaceutics (5 Years, Bachelor and Master of Pharmaceutics(Dual Degree))", 
+            "Computer Science and Engineering (4 Years, Bachelor of Technology)", 
+            "Ceramic Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+            "Metallurgical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+            "Materials Science and Technology (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+            "Industrial Chemistry (5 Years, Integrated Master of Technology)", 
+            "Pharmaceutics (4 Years, Bachelor of Pharmaceutics)", 
+            "Chemical Engineering (4 Years, Bachelor of Technology)", 
+            "Civil Engineering (4 Years, Bachelor of Technology)", 
+            "Biochemical Engineering with M.Tech. in Biochemical Engineering and Biotechnology (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+            "Mathematics and Computing (5 Years, Integrated Master of Technology)", 
+            "Mechanical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+            "Electrical Engineering with M.Tech. in Power Electronics (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+            "Ceramic Engineering (4 Years, Bachelor of Technology)", 
+            "Computer Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))"
+        ], 
+        "email": "doaa@iitbhu.ac.in", 
+        "examType": "JEE Advanced", 
+        "link": "http://josaa.nic.in/SeatInfo/root/InstProfile.aspx?instcd=116", 
+        "location": "Varanasi", 
+        "name": "Indian Institute  of Technology (BHU) Varanasi", 
+        "state": "Uttar Pradesh", 
+        "totalPrograms": 24
+    }, 
+    {
+        "_id": "ICG-84", 
+        "address": "IIT Madras P.O., Chennai 600036, INDIA", 
+        "branchWiseRank": [
+            {
+                "name": "Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "4391", 
+                        "name": "AI", 
+                        "opening rank": "2917"
+                    }
+                ]
+            }, 
+            {
+                "name": "Mining Engineering  (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "3242", 
+                        "name": "AI", 
+                        "opening rank": "1884"
+                    }
+                ]
+            }, 
+            {
+                "name": "Electrical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "606", 
+                        "name": "AI", 
+                        "opening rank": "189"
+                    }
+                ]
+            }, 
+            {
+                "name": "Electrical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "1212", 
+                        "name": "AI", 
+                        "opening rank": "663"
+                    }
+                ]
+            }, 
+            {
+                "name": "Physics (5 Years, Bachelor of Science and Master of Science (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "4116", 
+                        "name": "AI", 
+                        "opening rank": "1736"
+                    }
+                ]
+            }, 
+            {
+                "name": "Engineering Design (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "5127", 
+                        "name": "AI", 
+                        "opening rank": "1364"
+                    }
+                ]
+            }, 
+            {
+                "name": "Mechanical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "1246", 
+                        "name": "AI", 
+                        "opening rank": "535"
+                    }
+                ]
+            }, 
+            {
+                "name": "Metallurgical and Materials Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "5280", 
+                        "name": "AI", 
+                        "opening rank": "4242"
+                    }
+                ]
+            }, 
+            {
+                "name": "Biological Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "6368", 
+                        "name": "AI", 
+                        "opening rank": "2531"
+                    }
+                ]
+            }, 
+            {
+                "name": "Civil Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "4573", 
+                        "name": "AI", 
+                        "opening rank": "3604"
+                    }
+                ]
+            }, 
+            {
+                "name": "Aerospace Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "3251", 
+                        "name": "AI", 
+                        "opening rank": "2412"
+                    }
+                ]
+            }, 
+            {
+                "name": "Computer Science and Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "173", 
+                        "name": "AI", 
+                        "opening rank": "62"
+                    }
+                ]
+            }, 
+            {
+                "name": "Naval Architecture and Ocean Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "5319", 
+                        "name": "AI", 
+                        "opening rank": "3515"
+                    }
+                ]
+            }, 
+            {
+                "name": "Engineering Physics (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "2274", 
+                        "name": "AI", 
+                        "opening rank": "1380"
+                    }
+                ]
+            }, 
+            {
+                "name": "Aerospace Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "3242", 
+                        "name": "AI", 
+                        "opening rank": "1884"
+                    }
+                ]
+            }, 
+            {
+                "name": "Naval Architecture and Ocean Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "5870", 
+                        "name": "AI", 
+                        "opening rank": "5222"
+                    }
+                ]
+            }, 
+            {
+                "name": "Chemical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "3258", 
+                        "name": "AI", 
+                        "opening rank": "2960"
+                    }
+                ]
+            }, 
+            {
+                "name": "Biological Sciences (5 Years, Bachelor of Science and Master of Science (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "9353", 
+                        "name": "AI", 
+                        "opening rank": "6570"
+                    }
+                ]
+            }, 
+            {
+                "name": "Chemical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "3012", 
+                        "name": "AI", 
+                        "opening rank": "1548"
+                    }
+                ]
+            }, 
+            {
+                "name": "Civil Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "3703", 
+                        "name": "AI", 
+                        "opening rank": "1005"
+                    }
+                ]
+            }, 
+            {
+                "name": "Mechanical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "2194", 
+                        "name": "AI", 
+                        "opening rank": "1293"
+                    }
+                ]
+            }, 
+            {
+                "name": "Computer Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "278", 
+                        "name": "AI", 
+                        "opening rank": "214"
+                    }
+                ]
+            }
+        ], 
+        "branches": [
+            "Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)", 
+            "Mining Engineering  (4 Years, Bachelor of Technology)", 
+            "Electrical Engineering (4 Years, Bachelor of Technology)", 
+            "Electrical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+            "Physics (5 Years, Bachelor of Science and Master of Science (Dual Degree))", 
+            "Engineering Design (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+            "Mechanical Engineering (4 Years, Bachelor of Technology)", 
+            "Metallurgical and Materials Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+            "Biological Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+            "Civil Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+            "Aerospace Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+            "Computer Science and Engineering (4 Years, Bachelor of Technology)", 
+            "Naval Architecture and Ocean Engineering (4 Years, Bachelor of Technology)", 
+            "Engineering Physics (4 Years, Bachelor of Technology)", 
+            "Aerospace Engineering (4 Years, Bachelor of Technology)", 
+            "Naval Architecture and Ocean Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+            "Chemical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+            "Biological Sciences (5 Years, Bachelor of Science and Master of Science (Dual Degree))", 
+            "Chemical Engineering (4 Years, Bachelor of Technology)", 
+            "Civil Engineering (4 Years, Bachelor of Technology)", 
+            "Mechanical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+            "Computer Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))"
+        ], 
+        "email": "drcourses@iitm.ac.in", 
+        "examType": "JEE Advanced", 
+        "link": "http://josaa.nic.in/SeatInfo/root/InstProfile.aspx?instcd=110", 
+        "location": "Madras", 
+        "name": "Indian Institute  of Technology Madras", 
+        "state": "Tamil Nadu", 
+        "totalPrograms": 22
+    }, 
+    {
+        "_id": "ICG-86", 
+        "address": "IIT Bombay, Powai, Mumbai 400076, Maharashtra, India", 
+        "branchWiseRank": [
+            {
+                "name": "Chemical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "1479", 
+                        "name": "AI", 
+                        "opening rank": "422"
+                    }
+                ]
+            }, 
+            {
+                "name": "Civil Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "2251", 
+                        "name": "AI", 
+                        "opening rank": "897"
+                    }
+                ]
+            }, 
+            {
+                "name": "Mechanical Engineering and M.Tech. in Computer Integrated Manufacturing (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "901", 
+                        "name": "AI", 
+                        "opening rank": "803"
+                    }
+                ]
+            }, 
+            {
+                "name": "Energy Engineering with M.Tech. in Energy Systems Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "2250", 
+                        "name": "AI", 
+                        "opening rank": "1374"
+                    }
+                ]
+            }, 
+            {
+                "name": "Chemistry (4 Years, Bachelor of Science)", 
+                "quota": [
+                    {
+                        "closing rank": "4880", 
+                        "name": "AI", 
+                        "opening rank": "3323"
+                    }
+                ]
+            }, 
+            {
+                "name": "Electrical Engineering with M.Tech. in Microelectronics (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "514", 
+                        "name": "AI", 
+                        "opening rank": "228"
+                    }
+                ]
+            }, 
+            {
+                "name": "Engineering Physics and M.Tech. with specialization in Nano Science (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "1843", 
+                        "name": "AI", 
+                        "opening rank": "1092"
+                    }
+                ]
+            }, 
+            {
+                "name": "Engineering Physics (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "1041", 
+                        "name": "AI", 
+                        "opening rank": "6"
+                    }
+                ]
+            }, 
+            {
+                "name": "Metallurgical Engineering and Materials Science with M.Tech. in Ceramics and Composites (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "3450", 
+                        "name": "AI", 
+                        "opening rank": "3001"
+                    }
+                ]
+            }, 
+            {
+                "name": "Metallurgical Engineering and Materials Science with M.Tech. in Metallurgical Process Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "3403", 
+                        "name": "AI", 
+                        "opening rank": "3113"
+                    }
+                ]
+            }, 
+            {
+                "name": "Mechanical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "777", 
+                        "name": "AI", 
+                        "opening rank": "26"
+                    }
+                ]
+            }, 
+            {
+                "name": "Aerospace Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "1841", 
+                        "name": "AI", 
+                        "opening rank": "838"
+                    }
+                ]
+            }, 
+            {
+                "name": "Computer Science and Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "60", 
+                        "name": "AI", 
+                        "opening rank": "1"
+                    }
+                ]
+            }, 
+            {
+                "name": "Electrical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "227", 
+                        "name": "AI", 
+                        "opening rank": "22"
+                    }
+                ]
+            }, 
+            {
+                "name": "Metallurgical Engineering and Materials Science (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "2971", 
+                        "name": "AI", 
+                        "opening rank": "1657"
+                    }
+                ]
+            }, 
+            {
+                "name": "Electrical Engineering with M.Tech. in Communications and Signal Processing (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "583", 
+                        "name": "AI", 
+                        "opening rank": "249"
+                    }
+                ]
+            }
+        ], 
+        "branches": [
+            "Chemical Engineering (4 Years, Bachelor of Technology)", 
+            "Civil Engineering (4 Years, Bachelor of Technology)", 
+            "Mechanical Engineering and M.Tech. in Computer Integrated Manufacturing (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+            "Energy Engineering with M.Tech. in Energy Systems Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+            "Chemistry (4 Years, Bachelor of Science)", 
+            "Electrical Engineering with M.Tech. in Microelectronics (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+            "Engineering Physics and M.Tech. with specialization in Nano Science (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+            "Engineering Physics (4 Years, Bachelor of Technology)", 
+            "Metallurgical Engineering and Materials Science with M.Tech. in Ceramics and Composites (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+            "Metallurgical Engineering and Materials Science with M.Tech. in Metallurgical Process Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+            "Mechanical Engineering (4 Years, Bachelor of Technology)", 
+            "Aerospace Engineering (4 Years, Bachelor of Technology)", 
+            "Computer Science and Engineering (4 Years, Bachelor of Technology)", 
+            "Electrical Engineering (4 Years, Bachelor of Technology)", 
+            "Metallurgical Engineering and Materials Science (4 Years, Bachelor of Technology)", 
+            "Electrical Engineering with M.Tech. in Communications and Signal Processing (5 Years, Bachelor and Master of Technology (Dual Degree))"
+        ], 
+        "email": "dracad@iitb.ac.in", 
+        "examType": "JEE Advanced", 
+        "link": "http://josaa.nic.in/SeatInfo/root/InstProfile.aspx?instcd=102", 
+        "location": "Bombay", 
+        "name": "Indian Institute  of Technology Bombay", 
+        "state": "Maharashtra", 
+        "totalPrograms": 16
+    }, 
+    {
+        "_id": "ICG-88", 
+        "address": "Hauz Khas, New Delhi-110 016, INDIA", 
+        "branchWiseRank": [
+            {
+                "name": "Computer Science and Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "115", 
+                        "name": "AI", 
+                        "opening rank": "24"
+                    }
+                ]
+            }, 
+            {
+                "name": "Textile Technology (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "5431", 
+                        "name": "AI", 
+                        "opening rank": "2826"
+                    }
+                ]
+            }, 
+            {
+                "name": "Mathematics and Computing (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "397", 
+                        "name": "AI", 
+                        "opening rank": "250"
+                    }
+                ]
+            }, 
+            {
+                "name": "Biochemical Engineering and Biotechnology (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "4714", 
+                        "name": "AI", 
+                        "opening rank": "3787"
+                    }
+                ]
+            }, 
+            {
+                "name": "Chemical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "1704", 
+                        "name": "AI", 
+                        "opening rank": "980"
+                    }
+                ]
+            }, 
+            {
+                "name": "Production and Industrial Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "2526", 
+                        "name": "AI", 
+                        "opening rank": "1036"
+                    }
+                ]
+            }, 
+            {
+                "name": "Electrical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "403", 
+                        "name": "AI", 
+                        "opening rank": "80"
+                    }
+                ]
+            }, 
+            {
+                "name": "Electrical Engineering (Power and Automation) (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "999", 
+                        "name": "AI", 
+                        "opening rank": "549"
+                    }
+                ]
+            }, 
+            {
+                "name": "Biotechnology and Biochemical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "3718", 
+                        "name": "AI", 
+                        "opening rank": "2609"
+                    }
+                ]
+            }, 
+            {
+                "name": "Mechanical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "907", 
+                        "name": "AI", 
+                        "opening rank": "247"
+                    }
+                ]
+            }, 
+            {
+                "name": "Civil Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "2618", 
+                        "name": "AI", 
+                        "opening rank": "767"
+                    }
+                ]
+            }, 
+            {
+                "name": "Mathematics and Computing (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "477", 
+                        "name": "AI", 
+                        "opening rank": "390"
+                    }
+                ]
+            }, 
+            {
+                "name": "Chemical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "2996", 
+                        "name": "AI", 
+                        "opening rank": "1729"
+                    }
+                ]
+            }, 
+            {
+                "name": "Engineering Physics (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "2809", 
+                        "name": "AI", 
+                        "opening rank": "1074"
+                    }
+                ]
+            }, 
+            {
+                "name": "Computer Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+                "quota": [
+                    {
+                        "closing rank": "186", 
+                        "name": "AI", 
+                        "opening rank": "124"
+                    }
+                ]
+            }
+        ], 
+        "branches": [
+            "Computer Science and Engineering (4 Years, Bachelor of Technology)", 
+            "Textile Technology (4 Years, Bachelor of Technology)", 
+            "Mathematics and Computing (4 Years, Bachelor of Technology)", 
+            "Biochemical Engineering and Biotechnology (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+            "Chemical Engineering (4 Years, Bachelor of Technology)", 
+            "Production and Industrial Engineering (4 Years, Bachelor of Technology)", 
+            "Electrical Engineering (4 Years, Bachelor of Technology)", 
+            "Electrical Engineering (Power and Automation) (4 Years, Bachelor of Technology)", 
+            "Biotechnology and Biochemical Engineering (4 Years, Bachelor of Technology)", 
+            "Mechanical Engineering (4 Years, Bachelor of Technology)", 
+            "Civil Engineering (4 Years, Bachelor of Technology)", 
+            "Mathematics and Computing (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+            "Chemical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))", 
+            "Engineering Physics (4 Years, Bachelor of Technology)", 
+            "Computer Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))"
+        ], 
+        "email": "jeeadv@admin.iitd.ac.in", 
+        "examType": "JEE Advanced", 
+        "link": "http://josaa.nic.in/SeatInfo/root/InstProfile.aspx?instcd=104", 
+        "location": "Delhi", 
+        "name": "Indian Institute  of Technology Delhi", 
+        "state": "Delhi", 
+        "totalPrograms": 15
+    }, 
+    {
+        "_id": "ICG-89", 
+        "address": "INDIAN INSTITUTE OF TECHNOLOGY TIRUPATI \r\nChadalawada Nagar, Renigunta Road,\r\nTIRUPATI - 517506, CHITTOOR (Dist)\r\nANDHRA PRADESH, INDIA.", 
+        "branchWiseRank": [
+            {
+                "name": "Computer Science and Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "4539", 
+                        "name": "AI", 
+                        "opening rank": "2524"
+                    }
+                ]
+            }, 
+            {
+                "name": "Civil Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "8536", 
+                        "name": "AI", 
+                        "opening rank": "7101"
+                    }
+                ]
+            }, 
+            {
+                "name": "Mechanical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "7165", 
+                        "name": "AI", 
+                        "opening rank": "5691"
+                    }
+                ]
+            }, 
+            {
+                "name": "Electrical Engineering (4 Years, Bachelor of Technology)", 
+                "quota": [
+                    {
+                        "closing rank": "6568", 
+                        "name": "AI", 
+                        "opening rank": "4547"
+                    }
+                ]
+            }
+        ], 
+        "branches": [
+            "Computer Science and Engineering (4 Years, Bachelor of Technology)", 
+            "Civil Engineering (4 Years, Bachelor of Technology)", 
+            "Mechanical Engineering (4 Years, Bachelor of Technology)", 
+            "Electrical Engineering (4 Years, Bachelor of Technology)"
+        ], 
+        "email": "satyakn@iittp.ac.in", 
+        "examType": "JEE Advanced", 
+        "link": "http://josaa.nic.in/SeatInfo/root/InstProfile.aspx?instcd=121", 
+        "location": "Tirupati", 
+        "name": "Indian Institute  of Technology Tirupati", 
+        "state": "Andhra Pradesh", 
+        "totalPrograms": 4
+    }
+]
